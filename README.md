@@ -6,7 +6,7 @@ Welcome to my digital portfolio! I am currently enrolled with Valencia College, 
 
 ---
 
-### 📂 Featured Portfolio Items
+### Featured Portfolio Items
 
 #### 1. Python File Processing & Error-Handling Lab
 * **Focus:** Python Programming (`try`/`except` blocks, `while` loops, File I/O)
